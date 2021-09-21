@@ -5,7 +5,7 @@ Micro PCB for OqtaDrive (https://github.com/xelalexv/oqtadrive) including circui
 Parts List:
 <ul>
 <li>WR.PR(D) & ERASE(D) - 1N4148 Small Signal Switching Diode
-<li>R(L) & W(L) + R(R) & W(R) - 3mm LED + match resistors
+<li>R(L) & W(L) + R(R) & W(R) - 3mm LEDs (pick your colour) + matched resistors
 <li>WR.PR(R), DATA1(R) & DATA2(R) - 2k2 Ohm Resistor
 <li>M(T) - 2N2222 Transistor
 <li>M(R) - 1k Ohm Resistor
