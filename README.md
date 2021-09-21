@@ -16,6 +16,8 @@ Parts List:
 <li>1x Adafruit 1201 Vibration Motor (connected to 5V connector)
 </ul>
   
+The COMM pin header can be used to move the OqtaDrive to 1st Microdrive, useful for QL
+  
 ![Screenshot](oqtadrive_sch.png)
 ![Screenshot](oqtadrive_top.png)
 ![Screenshot](oqtadrive_bottom.png)
