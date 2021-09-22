@@ -18,6 +18,8 @@ Parts List:
 </ul>
   
 The COMM pin header can be used to move the OqtaDrive to 1st Microdrive, useful for QL. 
+
+3D Printed case can be found on Thingverse (https://www.thingiverse.com/thing:4971475)
   
 ![Screenshot](oqtadrive_sch.png)
 ![Screenshot](oqtadrive_top.png)
