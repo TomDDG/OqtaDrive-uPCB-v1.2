@@ -1,6 +1,6 @@
 # OqtaDrive-uPCB-v1.2
 
-Micro PCB for OqtaDrive (https://github.com/xelalexv/oqtadrive) including circuitary for vibration motor.
+Micro PCB for OqtaDrive (https://github.com/xelalexv/oqtadrive) including circuitry for vibration motor.
 
 Parts List:
 <ul>
