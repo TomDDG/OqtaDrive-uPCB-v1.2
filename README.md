@@ -8,6 +8,7 @@ Parts List:
 <li>R(L) & W(L) + R(R) & W(R) - 3mm LEDs (pick your colour) + matched resistors
 <li>WR.PR(R), DATA1(R) & DATA2(R) - 2k2 Ohm Resistor
 <li>M(T) - 2N2222 Transistor
+<li>9V.IN - 1N4004 Diode (or equivalent)
 <li>M(R) - 1k Ohm Resistor
 <li>M(D) - 1N4004 Diode (or equivalent)
 <li>M(C) - 0.1uF Capacitor
